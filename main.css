@@ -1,0 +1,26 @@
+body {
+    background-color: #555;
+}
+.container {
+
+    margin:auto;
+    margin-top: 150px;
+    background-color: #669;
+    width: 321px;
+    min-height: 321px;
+}
+.x-or-o {
+    width:100%;
+    position: absolute;
+    top:0px;
+}
+tr {
+    height: 107px;
+    /*border: 1px solid black;*/
+    background-color: #555;
+}
+td {
+    width: 107px;
+    text-align: center;
+    font-size: 4em;
+}
