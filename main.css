@@ -14,6 +14,11 @@ body {
     position: absolute;
     top:0px;
 }
+.endgame {
+    width:100%;
+    font-size: 40px;
+    display: none;
+}
 tr {
     height: 107px;
     /*border: 1px solid black;*/
